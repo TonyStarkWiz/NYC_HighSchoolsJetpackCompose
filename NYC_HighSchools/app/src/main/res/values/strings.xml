@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NYC_HighSchools</string>
+    <string name="nyc_schools">NYC Schools</string>
 </resources>
